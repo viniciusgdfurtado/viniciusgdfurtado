@@ -1,57 +1,67 @@
-<!-- RAINBOW LINE TOP -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm <a href="https://www.linkedin.com/in/vinicius-furtado-papodevdelphi/" target="blank">Vinicius Furtado</a></h1>
-<h3 align="center">A passionate Delphi and C#/.Net developer from São Joaquim da Barra - SP (Brazil)</h3>
-<h3 align="center" > Connect with me 🤝 </h3>
-
-<p align="center">
-
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/vinicius-furtado-papodevdelphi/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/viniciusgdfurtado">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://stackexchange.com/users/29970835/vinicius-furtado?tab=profile">
-				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/viniciusgdfurtado">
-					<img src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" width="48px"></a>        
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/Vinicius_FDev">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/@papodevdelphi2628?view_as=subscriber">
-				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
-      </div>
-<a href="#"><img width="100%" height="512px" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" height="384px"/></a>
-
-</p>
-
+![Logo](https://media.licdn.com/dms/image/D4D16AQEg5Is_vdQlqA/profile-displaybackgroundimage-shrink_350_1400/0/1708746896231?e=1720656000&v=beta&t=RY18HyyDb-hQEi30tz7MoIKY2hNqQ_a6pjkwANh5xKY)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ViniciusFDev&label=Profile%20views&color=0e75b6&style=flat" alt="Vinicius_FDev" /> </p>
 
-<p align="left"> <a href="https://twitter.com/Vinicius_FDev" target="blank"><img src="https://img.shields.io/twitter/follow/Vinicius_FDev?logo=twitter&style=for-the-badge" alt="Vinicius_FDev" /></a> </p>
+# Hi, I'm Vinicius Furtado! 👋
 
-- 🔭 I’m currently working in <a href="https://site.areco.com.br/" target="blank">Areco Sistemas Empresariais</a>
 
-- 🌱 I’m currently Working on Desktop and Web solutions(Delphi & C#/.Net)
+## 🚀 About Me
+I'm a Senior Delphi developer with 10 years of experience, mainly in software development for retail and the metal-mechanical industry, as a .Net developer more specifically with C#, I worked and still work on developing APIs for integrating banking services and gateways for value transport companies.
 
-- 🤝 I’m available for freelancing.
 
-- 📝 I regularly write articles on [https://dev.to/viniciusgdfurtadov](https://dev.to/viniciusgdfurtado)
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-furtado-papodevdelphi/)
 
-- 💬 Ask me about **Delphi & C#/.Net**
 
-- 📫 How to reach me **viniciusfranzzone92@gmail.com**
-  
-<br/>
+## 🛠 Skills
+### Programming Languages
+![Delphi](https://img.shields.io/badge/Delphi-CC342D?style=for-the-badge&logo=delphi&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Blogs posts
+### Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
 
-<!-- BLOG-POST-LIST:START -->
+### Libraries and Frameworks
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
+![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-- [Overcoming Mediocrity: Towards Excellence in your Software House.](https://dev.to/viniciusgdfurtado/overcoming-mediocrity-towards-excellence-in-your-software-house-b4i)
-- [Exploring TThreads in Delphi and C#: A Comparative Overview](https://dev.to/viniciusgdfurtado/exploring-tthreads-in-delphi-and-c-a-comparative-overview-5pg)
-- [Integration Delphi with ChatGPT](https://dev.to/viniciusgdfurtado/integrating-delphi-with-chatgpt-unlocking-ai-powered-conversations-3035)
-<!-- BLOG-POST-LIST:END -->
+### Markup and Style Languages
+![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
----
-<!-- RAINBOW LINE BOTTOM -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+### Cloud Computing Service
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
+![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
+
+#### Operational system
+![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0)
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+
+
+## Stats
+<div>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=viniciusgdfurtado&show_icons=true&theme=bear" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusgdfurtado&layout=donut&langs_count=8&card_width=320&theme=bear" />
+</div>
+
+## Repositories
+<div> 
+  <a href="https://github.com/viniciusgdfurtado/CodeWar"> 
+     <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=viniciusgdfurtado&repo=CodeWar&card_width=120&theme=bear&show_owner=true"/>
+  </a>
+  <a href="https://github.com/viniciusgdfurtado/ExerciciosCSharp"> 
+     <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=viniciusgdfurtado&repo=ExerciciosCSharp&card_width=120&theme=bear&show_owner=true"/>
+  </a>
+</div>
