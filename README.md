@@ -64,4 +64,7 @@ I'm a Senior Delphi developer with 10 years of experience, mainly in software de
   <a href="https://github.com/viniciusgdfurtado/ExerciciosCSharp"> 
      <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=viniciusgdfurtado&repo=ExerciciosCSharp&card_width=120&theme=bear&show_owner=true"/>
   </a>
+  <a href="https://github.com/viniciusgdfurtado/DIOLearning"> 
+     <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=viniciusgdfurtado&repo=DIOLearning&card_width=120&theme=bear&show_owner=true"/>
+  </a>  
 </div>
