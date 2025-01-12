@@ -1,5 +1,4 @@
 
-![Logo](https://media.licdn.com/dms/image/D4D16AQEg5Is_vdQlqA/profile-displaybackgroundimage-shrink_350_1400/0/1708746896231?e=1720656000&v=beta&t=RY18HyyDb-hQEi30tz7MoIKY2hNqQ_a6pjkwANh5xKY)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ViniciusFDev&label=Profile%20views&color=0e75b6&style=flat" alt="Vinicius_FDev" /> </p>
 
 # Hi, I'm Vinicius Furtado! 👋
@@ -70,9 +69,6 @@ I'm a Senior Delphi developer with 10 years of experience, mainly in software de
   <a href="https://github.com/viniciusgdfurtado/ExerciciosCSharp"> 
      <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=viniciusgdfurtado&repo=ExerciciosCSharp&card_width=120&theme=bear&show_owner=true"/>
   </a>
-  <a href="https://github.com/viniciusgdfurtado/DIOLearning"> 
-     <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=viniciusgdfurtado&repo=DIOLearning&card_width=120&theme=bear&show_owner=true"/>
-  </a>  
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e03c8a&height=120&section=footer"/>
